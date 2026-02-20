@@ -1,4 +1,4 @@
-Author: Siddhesh Saraf
+
 Topic: Verilog Design For A Partial Circuit
 
 INTRODUCTION:
@@ -41,3 +41,4 @@ Final Notes:-
 The project is structured to be modular and easy to debug.
 Each component is tested separately before integrating into the final design.
 The testbenches help analyze performance under different conditions.
+
